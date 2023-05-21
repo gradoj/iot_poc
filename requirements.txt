@@ -8,3 +8,4 @@ nest_asyncio
 nest_asyncio
 dag_cbor==0.2.2
 dask[distributed]
+xarray
