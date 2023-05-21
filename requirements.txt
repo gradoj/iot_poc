@@ -6,3 +6,4 @@ numcodecs
 aiohttp
 nest_asyncio
 nest_asyncio
+dag_cbor
