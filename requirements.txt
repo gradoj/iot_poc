@@ -2,3 +2,4 @@ numpy
 multiformats
 matplotlib
 cbor2
+numcodecs
