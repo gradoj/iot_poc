@@ -1,1 +1,3 @@
 numpy
+multiformats
+matplotlib
